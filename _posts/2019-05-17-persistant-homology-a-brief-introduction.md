@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new_post
 title: Persistant Homology, A Brief Introduction.
 ---
 
