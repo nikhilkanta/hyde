@@ -1,26 +1,42 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Nikhil
+tagline:          'Entrepreneur, Data Scientist'
+description:      'A Physics and Data Science enthusiast. Primarily interested in Business Analytics, Decision Sciences, Non-Linear Dynamical System and Network Sciences.'
+url:              http://nikhilkanta.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nikhil N Kanta'
+  url:
 
 paginate:         5
 
+footer-links:
+  dribbble:
+  email: nikhilkantz25@gmail.com
+  facebook:
+  flickr:
+  github: nikhilkanta
+  instagram: nikhilkantz
+  linkedin: https://www.linkedin.com/in/nikhil-kanta-984880a5/
+  pinterest:
+  rss:
+  twitter: nikhilkantz
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
 # Custom vars
 version:          2.1.0
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-139930508-1
 
 github:
   repo:           https://github.com/poole/hyde
