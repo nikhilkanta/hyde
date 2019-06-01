@@ -10,27 +10,13 @@ title:            Nikhil
 tagline:          'Entrepreneur, Data Scientist'
 description:      'A Physics and Data Science enthusiast. Primarily interested in Business Analytics, Decision Sciences, Non-Linear Dynamical System and Network Sciences.'
 url:              http://nikhilkanta.github.io
+baseurl:          /
 
 author:
   name:           'Nikhil N Kanta'
-  url:
+  url:            https://nikhilkanta.github.io
 
 paginate:         5
-
-footer-links:
-  dribbble:
-  email: nikhilkantz25@gmail.com
-  facebook:
-  flickr:
-  github: nikhilkanta
-  instagram: nikhilkantz
-  linkedin: https://www.linkedin.com/in/nikhil-kanta-984880a5/
-  pinterest:
-  rss:
-  twitter: nikhilkantz
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Custom vars
 version:          2.1.0
@@ -38,5 +24,5 @@ version:          2.1.0
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-139930508-1
 
-github:
+github:           https://github.com/nikhilkanta
   repo:           https://github.com/nikhilkanta/nikhilkanta.github.io
