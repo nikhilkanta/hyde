@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+parmalink: /About
 ---
 
 <p class="message">
