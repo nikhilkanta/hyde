@@ -1,6 +1,12 @@
 ---
 layout: page
-title: About
+title: Research Paper Records
+permalink: /rpr
 ---
 
-<p> This is sample page test page for an abut.html file to check if it is rendering </p>
+This is a record of the research papers that I randomly or sometimes not so randomly come across in my quest to find some answers.
+
+
+### Network and Graph Theory
+
+###   
