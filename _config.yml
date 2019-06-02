@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 gems:		  [jekyll-paginate, jekyll-gist]
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:year/:month/:day/:title
 
 # Setup
 title:            Nikhil
@@ -25,4 +25,4 @@ version:          2.1.0
 google_analytics: UA-139930508-1
 
 github:           https://github.com/nikhilkanta
-repo:           https://github.com/nikhilkanta/nikhilkanta.github.io
+repo:             https://github.com/nikhilkanta/nikhilkanta.github.io
