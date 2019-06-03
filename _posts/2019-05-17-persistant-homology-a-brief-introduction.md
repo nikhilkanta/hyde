@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Persistant Homology, A Brief Introduction.
-permalink: /:categories/:year/:month/:day/:title
+permalink: /2019-05-17-persistant-homology-a-brief-introduction
 ---
 
 <div class="message">
