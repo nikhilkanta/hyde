@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Networks with Networkx
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories-:year-:month-:day-:title
 ---
 
 <div class="message">
