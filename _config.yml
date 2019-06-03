@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 gems:		  [jekyll-paginate, jekyll-gist]
 # Permalinks
-#permalink:        /:categories/:year/:month/:day/:title
+permalink:        /:categories-:year-:month-:day-:title
 
 # Setup
 title:            Nikhil
