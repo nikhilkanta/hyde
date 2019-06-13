@@ -11,11 +11,16 @@ This is a record of the research papers that I randomly or sometimes not so rand
 
 [From time series to complex networks: the visibility graph](https://arxiv.org/abs/0810.0920v1)
 
+
 [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918)
+
+The Revolutionary paper from by Watts & Strogatz about the small world phenomenon in real world networks. The Small world phenomenon here is characterized by two parameters, Clustering Coefficient and characteristic path length. Most small world networks exhibit the high local clustering like regular networks and small characteristic path length like random networks.
 
 [Communities in Networks](https://arxiv.org/abs/0902.3788v2)
 
 [Complex Networks Analysis of Language Complexity](https://iopscience.iop.org/article/10.1209/0295-5075/100/58002/meta)
+
+This paper talks about constructing Complex networks from text data with respect to their order of appearance in a sentence in a given text. The different metric from the networks are then used to classify the complexity of the text / Language. (A look into this from the algebraic topological measures from Cliques might have a better insight than the metrics used here in this paper).
 
 [Fast unfolding of communities in large networks](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/pdf)
 
