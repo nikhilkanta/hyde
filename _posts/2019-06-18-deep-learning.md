@@ -17,34 +17,47 @@ excerpt_separator: <!--more-->
 
 ### Structural building blocks
 
-A Perceptron is the fundamental building block of neural networks. The idea of Perceptron's can be traced back to the functioning of a **Neuron** in animals, i.e. when activated it fires a pulse of current. Similarly, a Perceptron usually takes input, multiplies it with a weight and squashes it with a activation function, represented via the following equation.
+A Perceptron is the fundamental building block of neural networks. The idea of Perceptron's can be traced back to the functioning of a **Neuron** in animals, i.e. when activated it fires a pulse of current. Similarly, a Perceptron usually takes input, multiplies it with a weight and squashes it with a activation function, which can be represented via the following equation.
 
 $$
   \begin{align*}
-    \hat{y} =  g \left(W_0 + \sum_{i=1}^n w_ix_i \right)
+    \hat{y} =  g \left(w_0 + \sum_{i=1}^n w_ix_i \right)
   \end{align*}
 $$
 
+Where $$\hat{y}$$ is the output, $$g(\cdot)$$ is the activation function, $$n$$ is the number of inputs,  $$w_i$$ are the respective weights for the input $$x_i$$ and $$w_0$$ is the bias.
+
+![Perceptron](assets\posts\Deep_learning\perceptron.png)
+*fig: A Perceptron*
+
+The vectorial representation of the above equation is given by
+
 $$
 \begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
+  \hat{y} =  g \left(w_0 + \bf{X^TW} \right)
+  \end{align*}
 $$
+
+The activation function $$g(\cdot)$$ used are usually a non-linear activation function. A example of a non-linear activation function is the sigmoid function which is given by.
+
+$$
+  \begin{align*}
+    g(z) =  \sigma(z) = \frac{1}{1 + e^{-z}}
+  \end{align*}
+$$
+
+![sigmid_function](assets\posts\Deep_learning\sigmoid_function.png)
+*fig: A sigmoid activation function*
 
 ### Nonlinear activation functions
 
-text here
+Why a Non-linear activation function? The whole purpose of activation function is tp introduce non-linearities to the network. A linear activation function produces a linear decision boundary. As we know all the real world systems are non-linear it makes much sense to use a non-linear activation function.
+
+Here are some activation functions with their use code in Tensorflow.
+
+![activaion_functions](assets\posts\Deep_learning\activation_function.png)
+*fig: Common activation functions*
+
 
 ## Neural Networks
 
