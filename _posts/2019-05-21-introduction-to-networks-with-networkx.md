@@ -20,7 +20,7 @@ are connected in Internet, or the citations of scholarly papers through bibliogr
 or the species of animals that are connected by links telling which species feeds on
 which other species. Below are a few examples of a few networks.
 
-![example_networks](/assets/posts/Networks/example_networks.jpg "Large example image")
+![example_networks](/assets/posts/Networks/example_networks.jpg)
 
 Image Source: [Network Science Book by Albert Barabasi](https://networksciencebook.com/)
 
@@ -36,3 +36,6 @@ constructed a network to show it.
 ![bridges_of_konigsberg](assets\posts\Networks\bridges_of_konigsberg.jpg)
 
 Image Source: [Network Science Book by Albert Barabasi](https://networksciencebook.com/)
+
+
+## Networks with Networkx
