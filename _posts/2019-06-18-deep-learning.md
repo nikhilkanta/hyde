@@ -4,9 +4,6 @@ title: Deep Learning
 excerpt_separator: <!--more-->
 ---
 
-<div class="message">
-  Howdy! This post is under construction.
-</div>
 
  This series of posts on Deep learning is my notes on Deep learning from the course [6.S191 Introduction to Deep Learning](http://introtodeeplearning.com). It is meant to be more of a personal notes so if you find something less descriptive please follow this [link](http://introtodeeplearning.com).
 
