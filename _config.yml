@@ -7,7 +7,7 @@ permalink:        /:categories-:year-:month-:day-:title
 
 # Setup
 title:            Nikhil
-tagline:          'Entrepreneur, Data Scientist'
+tagline:          'Data Enthusiast'
 description:      'A Physics and Data Science enthusiast. Primarily interested in Business Analytics, Decision Sciences, Non-Linear Dynamical System and Network Sciences.'
 url:              http://nikhilkanta.github.io
 baseurl:          /
