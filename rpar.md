@@ -4,7 +4,25 @@ title: Research Papers and Articles Records
 permalink: /rpar
 ---
 
-This is a record of the research papers that I randomly or sometimes not so randomly come across in my quest to find some answers. As I am mostly inclined towards the study of Data Sciences, Dynamical systems and Network theory, most of my papers would be relating to them. I am also interested in the study systems on non-flat metric, which is mostly worked in General Relativity.
+This is a record of the research papers that I randomly or sometimes not so randomly come across in my quest to find some answers. As I am mostly inclined towards the study of Data Sciences, Dynamical systems and Network theory, most of my papers would be relating to them. I am also interested in the study of systems on non-flat metric, which is mostly worked out in General Relativity.
+
+
+### Machine Learning
+
+[Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.024102)
+
+[Machine Learning in Materials Science: Recent Progress and Emerging Applications](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119148739.ch4)
+
+[Constructing socio-economic status indices: how to use principal components analysis](https://www.ncbi.nlm.nih.gov/pubmed/17030551)
+
+[Using an asset index to assess trends in poverty in seven Sub-Saharan African countries](https://www.sciencedirect.com/science/article/abs/pii/S0305750X08000466)
+
+[Issues in the construction of wealth indices for the measurement of socio-economic position in low-income countries](https://ete-online.biomedcentral.com/articles/10.1186/1742-7622-5-3)
+
+[Compressed Convolutional LSTM: An Efficient Deep Learning Framework to Model High Fidelity 3D Turbulence](https://arxiv.org/abs/1903.00033v1)
+
+[Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://arxiv.org/abs/1907.00235)
+
 
 
 ### Network and Graph Theory
@@ -41,16 +59,6 @@ This paper talks about constructing Complex networks from text data with respect
 [What do Networks have to do with Climate?](https://journals.ametsoc.org/doi/abs/10.1175/BAMS-87-5-585)
 
 
-### Machine Learning
-
-[Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.024102)
-
-[Machine Learning in Materials Science: Recent Progress and Emerging Applications](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119148739.ch4)
-
-[Constructing socio-economic status indices: how to use principal components analysis](https://www.ncbi.nlm.nih.gov/pubmed/17030551)
-
-[Using an asset index to assess trends in poverty in seven Sub-Saharan African countries](https://www.sciencedirect.com/science/article/abs/pii/S0305750X08000466)
-
 ### General Relativity
 
 [An Approach to Stability Analyses in General Relativity via Symplectic Geometry](https://arxiv.org/abs/1902.08219)
@@ -59,4 +67,4 @@ This paper talks about constructing Complex networks from text data with respect
 
 
 
-Last Update: 10 June 2019
+Last Update: 25 Sept 2019
